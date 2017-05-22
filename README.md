@@ -1,4 +1,4 @@
-Source files for map_revocatoria
+Source files for map_menu
 =====
 
 ## Description
@@ -31,13 +31,13 @@ To embed on a webpage use this code:
 ```html
 <!-- START OF OUR INTERACTIVE -->
 <script type="text/javascript">
-window.map_revocatoria_data = {
-  "name": "map_revocatoria"
+window.map_menu_data = {
+  "name": "map_menu"
 }
 </script>
-<div class="lsv-interactive" id="map_revocatoria">
-<img src="https://la-silla-vacia.github.io/map_revocatoria/screenshot.png" class="screenshot" style="width:100%;">
+<div class="lsv-interactive" id="map_menu">
+<img src="https://la-silla-vacia.github.io/map_menu/screenshot.png" class="screenshot" style="width:100%;">
 </div>
-<script defer type="text/javascript" src="https://la-silla-vacia.github.io/map_revocatoria/script.js"></script>
+<script defer type="text/javascript" src="https://la-silla-vacia.github.io/map_menu/script.js"></script>
 <!-- END OF OUR INTERACTIE -->
 ```
