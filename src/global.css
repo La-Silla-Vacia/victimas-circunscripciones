@@ -1,0 +1,143 @@
+/* Hide the sidebar in historias */
+.article-sidebar.col-md-4.col-lg-3 {
+  display: none;
+}
+
+.field-item > p,
+.img-container {
+  max-width: 713px;
+}
+
+@media (min-width: 1200px) {
+  .article-content.col-sm-12.col-md-8 {
+    width: 85%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .article-content.col-md-8 {
+    width: calc(100% - 20px) !important;
+  }
+}
+
+.personaje {
+    position: absolute;
+  }
+
+  .personaje.uno {
+    left: 40%;
+    top: 18%;
+  }
+
+  .personaje.dos {
+    left: 57%;
+    top: 41.3%;
+  }
+
+  .personaje.tres {
+    left: 50%;
+    top: 58%;
+  }
+
+  .personaje.cua {
+    left: 35%;
+    top: 63.5%;
+  }
+
+  .personaje.cin {
+    left: 41.8%;
+    top: 70.4%;
+  }
+
+  .cont_circulos {
+    position: relative;
+    width: 100%;
+    clear: both;
+  }
+
+  .conten {
+    width: 100%;
+    position: absolute;
+    visibility: visible;
+    line-height: 1.2em;
+  }
+
+  .climpiar {
+    clear: both;
+    height: 1px;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .punto {
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    border: 2px solid #FFFFFF;
+    border-radius: 800px;
+    top: 0px;
+  }
+
+  .punto a {
+    width: 20%;
+    height: 20%;
+    display: block;
+    text-align: center;
+    margin-left: 29%;
+  }
+
+  .punto span {
+    margin-left: 1.3em;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    font-size: 1.1em;
+  }
+
+  .inv {
+    display: none;
+  }
+
+  .left {
+    float: left;
+    margin-right: 10px;
+    text-align: right;
+  }
+
+  .right {
+    float: right;
+    margin-left: 10px;
+    text-align: left;
+  }
+
+  .color1 {
+    background-color: #eb364a!important;
+  }
+
+  .color2 {
+    background-color: #f7d42a!important;
+  }
+
+  .color3 {
+    background-color: #bb7693!important;
+  }
+
+  .color4 {
+    background-color: #21b087!important;
+  }
+
+  .color5 {
+    background-color: #c3ce3d!important;
+  }
+
+  .background-img {
+    width: 100%;
+    height: auto;
+  }
