@@ -30,11 +30,6 @@ npm run deploy
 To embed on a webpage use this code:
 ```html
 <!-- START OF OUR INTERACTIVE -->
-<script type="text/javascript">
-window.map_menu_data = {
-  "name": "map_menu"
-}
-</script>
 <div class="lsv-interactive" id="map_menu">
 <img src="https://la-silla-vacia.github.io/map_menu/screenshot.png" class="screenshot" style="width:100%;">
 </div>
