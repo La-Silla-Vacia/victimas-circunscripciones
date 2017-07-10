@@ -34,5 +34,5 @@ To embed on a webpage use this code:
 <img src="https://la-silla-vacia.github.io/map_menu/screenshot.png" class="screenshot" style="width:100%;">
 </div>
 <script defer type="text/javascript" src="https://la-silla-vacia.github.io/map_menu/script.js"></script>
-<!-- END OF OUR INTERACTIE -->
+<!-- END OF OUR INTERACTIVE -->
 ```
