@@ -7,11 +7,11 @@ import Base from './src/base';
 require("./src/base.css"); // this goes outside the callback since otherwise the interactive sometimes fires before the CSS is fully loaded
 require("./src/global.css");
 
-lsv("map_menu", function (interactive) {
+lsv("map_revocatoria", function (interactive) {
   "use strict";
 
   if (!interactive) {
-    console.log("Interactive map_menu not initiated. Exiting.");
+    console.log("Interactive map_revocatoria not initiated. Exiting.");
     return;
   }
 
