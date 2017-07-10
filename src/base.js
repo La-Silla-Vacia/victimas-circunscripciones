@@ -57,15 +57,17 @@ export default class Base extends Component {
             <div className="punto color1"><span>Santanderes</span></div>
           </div>
 
-          <div onClick={this.handonclic.bind(this, "Título", "<p>Texto texto texto texto texto de Juan Pa</p>")} className="personaje tres">
+          <div onClick={this.handonclic.bind(this, "Título", "<p>Texto de Juan Pa Aquí</p>" +
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://www.google.com' target='_blank' >VER MAS...</a></div>")} className="personaje tres">
             <div className="punto color1"><span>Zipaquirá</span></div>
           </div>
 
-          <div className="personaje cua">
+          <div onClick={this.handonclic.bind(this, "Título", "<p>Texto de Natys Aquí</p>" )} className="personaje cua">
             <div className="punto color1"><span>Cali</span></div>
           </div>
 
-          <div className="personaje cin">
+          <div onClick={this.handonclic.bind(this, "Álvaro León Zuluaga, el afectado en Medellín", "<p>En Antioquia la empresa dueña de las fotomultas es Quipux. Fue creada en 1995 en Rionegro y su representante legal es Álvaro León Zuluaga, un contratista que lleva desde la alcaldía de Luis Pérez en 2001 manejando todo el sistema de fotomultas en Medellín y luego, a raíz de un informe de auditoria de la Contraloría de Medellín que decía le pedía a la Secretaría de Movilidad fijar controles a la información que manejaban los empleados de Quipux y la que ellos ingresaban al sistema, el entonces alcalde Sergio Fajardo firmó un convenio interadministrativo con Emtelco, UNE, filial de las Empresas Públicas de Medellín, EPM, para que modernizara el sistema. Ese convenio fue por 6.023 millones a un plazo inicial de 8 años, y ya en el mismo 2006 se le añadieron 4 otrosíes que extendieron su plazo a 12 años.</p><p>En 2010  la alcaldía de Alonso Salazar hizo el otro sí 5 que le agregó una segunda etapa al convenio hasta 2025. El presupuesto para esa nueva etapa fue de 64.424 millones de pesos, adicionales a los 6.023 millones iniciales.</p><p>Para esa segunda etapa el gerente general de UNE suscribió un acuerdo de colaboración empresarial con XM y el Consorcio ITS Medellín, que está conformado por SITT & Cía ltda y Quipux. UNE también firmó otro contrato para el suministro de equipos, software, implantación y mantenimiento de los equipos tecnológicos del sistema de fotodetección con la sociedad Velsis, una empresa brasilera cuya sucursal en Medellín fue creada en 2011 justamente por Álvaro León Zuluaga, el representante legal de Quipux.</p><p>Para el módulo de fotomultas, Quipux tiene el 41 por ciento del recaudo, por lo que el proyecto de ley le pegaría directamente a Álvaro León Zuluaga.</p><p>En todo caso, Quipux tiene un poder que trasciende a las fotomultas. De hecho, a la empresa la llaman 'el Gran Hermano' porque fuera de Antioquia, desde 2007 la empresa tiene el 49% de la concesión Runt S.A de todo el país (la otra mitad la tienen Heinsohn Software House S.A. e Información y Tecnología S.A) con el ministerio de Transporte.</p><p>La Concesión Runt S.A. diseñó un sistema para unificar la información de todos los carros del país, sus propietarios y sus infracciones. Para eso, Quipux hizo el sistema Qx-tránsito y entonces a las oficinas de tránsito de todo el país les tocó adquirir el software para interactuar en línea con la central de información nacional, lo que convirtió a la empresa en una súper poderosa en ese sector.</p>" +
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://www.google.com' target='_blank' >VER MAS...</a></div>")} className="personaje cin">
             <div className="punto color1"><span>Medellín</span></div>
           </div>
         </div>
