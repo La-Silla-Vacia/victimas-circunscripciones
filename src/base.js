@@ -59,7 +59,7 @@ export default class Base extends Component {
 
           <div onClick={this.handonclic.bind(this, "Título", "<p>Texto de Juan Pa Aquí</p>" +
             "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://www.google.com' target='_blank' >VER MAS...</a></div>")} className="personaje tres">
-            <div className="punto color1"><span>Zipaquirá</span></div>
+            <div className="punto color1"><span>Cundinamarca</span></div>
           </div>
 
           <div onClick={this.handonclic.bind(this, "Título", "<p>Texto de Natys Aquí porque estoy en crisis</p>" )} className="personaje cua">
