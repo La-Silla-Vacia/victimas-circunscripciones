@@ -53,7 +53,7 @@ export default class Base extends Component {
 
 
           <div onClick={this.handonclic.bind(this, "Contratistas y poderosos locales", "<p>En los últimos cinco años en los santanderes se han entregado cuatro concesiones -Floridablanca en Santander y Ocaña, Los Patios y Villa del Rosario en Norte de Santander-  para la operación de las fotomulas. Tres han quedado en manos de contratistas conocidos por financiar campañas y una dentro de la red de negocios del emporio del controvertido empresario barranquillero, Alfonso 'el Turco' Hilsaca.</p><p>En los santenderes el concesionario que menos gana con el recaudo de las infracciones es el de Floridablanca que se queda con el 45,3%, el que más gana es el de Hilsaca que está en Villa del Rosario -municipio del área metropolitana de Cúcuta- y se queda con el 80%. Todas las concesiones tienen en común que resultaron de la sociedad de varias empresas y que están en la mira de entes de control por la manera en la que fueron licitados. Su operación ha sido igual de controvertida y en Los Patios, otro de los municipios del área metropolitana de Cúcuta, en solo ocho meses de operación se han emitido 60 mil órdenes de comparendos.</p>" +
-            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://www.google.com' target='_blank' >VER MAS...</a></div>")} className="personaje dos">
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/historia/fotomultas-en-los-santanderes-la-medida-de-los-privados-61643' target='_blank' >VER MAS...</a></div>")} className="personaje dos">
             <div className="punto color1"><span>Santanderes</span></div>
           </div>
 
