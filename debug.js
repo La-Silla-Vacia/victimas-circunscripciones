@@ -11,7 +11,7 @@ lsv("map_revocatoria", function (interactive) {
   "use strict";
 
   if (!interactive) {
-    console.log("Interactive map_revocatoria not initiated. Exiting.");
+    console.log("Interactive map_menu not initiated. Exiting.");
     return;
   }
 
