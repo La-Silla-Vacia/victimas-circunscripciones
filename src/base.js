@@ -53,12 +53,12 @@ export default class Base extends Component {
 
 
           <div onClick={this.handonclic.bind(this, "La estrategia de las universidades públicas para crecer en medio del posconflicto", "<p>En los santanderes, las universidades públicas proyectan ampliar su cobertura en los territorios que eran dominados por las Farc. Así, no solo se fortalecen regionalmente, también ponen su grano de arena para la implementación de los acuerdos de La Habana. Mientras consiguen la plata con las administraciones departamentales y el Gobierno Nacional para concretarlo, sus movimientos estudiantiles están llegando hasta las zonas veredales a dictar talleres para los miembros de las Farc, con lo que le apuestan a la reconciliación.</p>" +
-            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61643' target='_blank' >VER MAS...</a></div>")} className="personaje dos">
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61905' target='_blank' >VER MAS...</a></div>")} className="personaje dos">
             <div className="punto color1"><span>Santanderes</span></div>
           </div>
 
           <div onClick={this.handonclic.bind(this, "Las universidades bogotanas se ponen las botas del posconflicto", "<p>En Bogotá, las universidades no se están limitando sólo a estudiar el conflicto desde las aulas, sino que tienen una serie de inciativas para intervenir en los territorios. Con esto, piensan sanar las heridas del conflicto, lograr que los diferentes sectores de la población se integren y garantizar que el conflicto no se vuelva a repetir.</p>" +
-            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61644' target='_blank' >VER MAS...</a></div>")} className="personaje tres">
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61906' target='_blank' >VER MAS...</a></div>")} className="personaje tres">
             <div className="punto color1"><span>Bogotá</span></div>
           </div>
 
