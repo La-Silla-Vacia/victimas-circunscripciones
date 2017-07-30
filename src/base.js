@@ -47,7 +47,7 @@ export default class Base extends Component {
                className="background-img"/>
 
           <div onClick={this.handonclic.bind(this, "Cátedras, maestrías y capacitación a exconbatientes, la apuesta del posconflcito en clave Caribe", "<p>Desde hace varios años un puñado de universidades en el Caribe se viene pensando el posconflcito en clave regional. Ellas han reconocido la importancia de aterrizar los acuerdos a las realidades que vive el territorio y lo han hecho desde la academia y la participación activa en los procesos de reincorporación.</p><p>Desde ofrecer cursos de maestría en construcción de paz, como la Universidad de Cartagena, hasta liderar proyectos de articulación regional para trabajar en los territorios, como lo hace la Universidad del Norte en Barranquilla, estas universidades buscan contribuir al discurso público en torno a la paz, el cual suele dejar por fuera al Caribe por considerar erróneamente que aquí no se vivió tan fuerte la guerra.</p>" +
-            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61475' target='_blank' >VER MAS...</a></div>")} className="personaje uno">
+            "<div style='text-align: center;font-size: .8em;font-weight: bold;font-family: Lato'><a href='http://lasillavacia.com/node/61900' target='_blank' >VER MAS...</a></div>")} className="personaje uno">
             <div className="punto color1"><span>Caribe</span></div>
           </div>
 
